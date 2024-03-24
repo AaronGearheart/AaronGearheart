@@ -10,5 +10,5 @@ Hopefully they can be useful to you as well!
 
 <div>
   <img height="135px" align="center" src="https://github-readme-stats.vercel.app/api?username=AaronGearheart&theme=nord&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&line_height=21">
-  <img height="135px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?  username=AaronGearheart&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+  <img height="135px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronGearheart&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
 </div>
