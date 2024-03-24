@@ -1,16 +1,14 @@
-### Hi there 👋
+## 👋 Hi there!
 
-<!--
-**AaronGearheart/AaronGearheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **AaronGeareart** and I do random projects for fun.
+My main coding language is Python although I use HTML, JS, and CSS for website design.
+Most projects here are just passion projects made for automating tasks or solving problems.
+While most of these seem fairly niche if these are useful to you feel free to use them.
+Hopefully they can be useful to you as well!
 
-Here are some ideas to get you started:
+### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="135px" align="center" src="https://github-readme-stats.vercel.app/api?username=AaronGearheart&theme=nord&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&line_height=21">
+  <img height="135px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?  username=AaronGearheart&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+</div>
